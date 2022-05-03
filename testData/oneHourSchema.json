@@ -1,0 +1,1901 @@
+
+
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "integer"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "integer"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "integer"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "integer"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "timestamp_utc": {
+              "type": "string"
+            },
+            "snow": {
+              "type": "integer"
+            },
+            "temp": {
+              "type": "number"
+            },
+            "timestamp_local": {
+              "type": "string"
+            },
+            "ts": {
+              "type": "integer"
+            },
+            "precip": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "timestamp_utc",
+            "snow",
+            "temp",
+            "timestamp_local",
+            "ts",
+            "precip"
+          ]
+        }
+      ]
+    },
+    "city_name": {
+      "type": "string"
+    },
+    "lon": {
+      "type": "number"
+    },
+    "timezone": {
+      "type": "string"
+    },
+    "lat": {
+      "type": "number"
+    },
+    "country_code": {
+      "type": "string"
+    },
+    "state_code": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "data",
+    "city_name",
+    "lon",
+    "timezone",
+    "lat",
+    "country_code",
+    "state_code"
+  ]
+}
+
