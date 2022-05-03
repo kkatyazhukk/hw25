@@ -1,0 +1,187 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "data": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "rh": {
+                "type": "number"
+              },
+              "pod": {
+                "type": "string"
+              },
+              "lon": {
+                "type": "number"
+              },
+              "pres": {
+                "type": "integer"
+              },
+              "timezone": {
+                "type": "string"
+              },
+              "ob_time": {
+                "type": "string"
+              },
+              "country_code": {
+                "type": "string"
+              },
+              "clouds": {
+                "type": "integer"
+              },
+              "ts": {
+                "type": "integer"
+              },
+              "solar_rad": {
+                "type": "number"
+              },
+              "state_code": {
+                "type": "string"
+              },
+              "city_name": {
+                "type": "string"
+              },
+              "wind_spd": {
+                "type": "number"
+              },
+              "wind_cdir_full": {
+                "type": "string"
+              },
+              "wind_cdir": {
+                "type": "string"
+              },
+              "slp": {
+                "type": "number"
+              },
+              "vis": {
+                "type": "integer"
+              },
+              "h_angle": {
+                "type": "number"
+              },
+              "sunset": {
+                "type": "string"
+              },
+              "dni": {
+                "type": "number"
+              },
+              "dewpt": {
+                "type": "number"
+              },
+              "snow": {
+                "type": "integer"
+              },
+              "uv": {
+                "type": "number"
+              },
+              "precip": {
+                "type": "integer"
+              },
+              "wind_dir": {
+                "type": "integer"
+              },
+              "sunrise": {
+                "type": "string"
+              },
+              "ghi": {
+                "type": "number"
+              },
+              "dhi": {
+                "type": "number"
+              },
+              "aqi": {
+                "type": "integer"
+              },
+              "lat": {
+                "type": "number"
+              },
+              "weather": {
+                "type": "object",
+                "properties": {
+                  "icon": {
+                    "type": "string"
+                  },
+                  "code": {
+                    "type": "integer"
+                  },
+                  "description": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "icon",
+                  "code",
+                  "description"
+                ]
+              },
+              "datetime": {
+                "type": "string"
+              },
+              "temp": {
+                "type": "number"
+              },
+              "station": {
+                "type": "string"
+              },
+              "elev_angle": {
+                "type": "number"
+              },
+              "app_temp": {
+                "type": "number"
+              }
+            },
+            "required": [
+              "rh",
+              "pod",
+              "lon",
+              "pres",
+              "timezone",
+              "ob_time",
+              "country_code",
+              "clouds",
+              "ts",
+              "solar_rad",
+              "state_code",
+              "city_name",
+              "wind_spd",
+              "wind_cdir_full",
+              "wind_cdir",
+              "slp",
+              "vis",
+              "h_angle",
+              "sunset",
+              "dni",
+              "dewpt",
+              "snow",
+              "uv",
+              "precip",
+              "wind_dir",
+              "sunrise",
+              "ghi",
+              "dhi",
+              "aqi",
+              "lat",
+              "weather",
+              "datetime",
+              "temp",
+              "station",
+              "elev_angle",
+              "app_temp"
+            ]
+          }
+        ]
+      },
+      "count": {
+        "type": "integer"
+      }
+    },
+    "required": [
+      "data",
+      "count"
+    ]
+  }
+  
+  

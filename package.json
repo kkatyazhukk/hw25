@@ -1,0 +1,24 @@
+{
+  "name": "hw25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkatyazhukk/hw25.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkatyazhukk/hw25/issues"
+  },
+  "homepage": "https://github.com/kkatyazhukk/hw25#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jest": "^28.0.3",
+    "jsonschema": "^1.4.0"
+  }
+}
